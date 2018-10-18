@@ -4,10 +4,10 @@
 
 ## Collaborators
 
-강창우 kangcw2002@gc.gachon.ac.kr
+강창우 (https://github.com/Kangchangwoo1)
 
-박소연 p96soy@gc.gachon.ac.kr
+박소연 (https://github.com/soyeunpark)
 
-이종호 ljhljh0125@gmail.com
+이종호 (https://github.com/JONGSKY)
 
-최진혁 0804cjh@hanmail.net
+최진혁 (https://github.com/0804cjh)
